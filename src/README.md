@@ -17,3 +17,6 @@ src for source code
 1. Item 1
     2. Item 2
 1. Item 3
+
+
+markdown had *italic* and **bold**
