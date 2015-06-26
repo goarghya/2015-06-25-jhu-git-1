@@ -4,8 +4,8 @@ src for source code
 
 ## header 2
 
--bullet 1
--bullet 2
+- bullet 1
+- bullet 2
 
 
 1. Item 1
